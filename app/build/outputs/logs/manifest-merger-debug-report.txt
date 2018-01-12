@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:design:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/56a83e951298e8d68964de36b7040bce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/535ec4059006627decc0434c7f720bfe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2785242fa737b5835726aab8984ff435/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/ea37b4b987acef8863970c28ad2ef5a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/2eb54c0eaa3ba883153bc79128201b9a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/ca4a7597862c8dc0eb31769d161634bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/179e55e60c4fcf9b5616a32dc6e95f55/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/04930254c046b48fe4c1f0680ab3851d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/aeb4fcd604d031f1ed477b8756e641e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/8ff81427f1d20c507204e9284f23f888/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/3229d2202ea9ec33e0d61997c1c422e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/fe561ece881c8bcd3ce17f4337ae3496/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/087f66d25cf8a9bb4fabf00b8fb01105/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/Tim/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/df7717384a444cbbd6f9c43c99027c9d/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2785242fa737b5835726aab8984ff435/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2785242fa737b5835726aab8984ff435/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:11:9-40
+activity#github.io.carpool.TitleActivity
+ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:12:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:16:27-74
+activity#github.io.carpool.PhoneVerifyActivity
+ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:19:9-57
+	android:name
+		ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:19:19-54
+activity#github.io.carpool.RegistrationActivity
+ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:20:9-67
+	android:name
+		ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml:20:19-55
+uses-sdk
+INJECTED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/56a83e951298e8d68964de36b7040bce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/56a83e951298e8d68964de36b7040bce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/535ec4059006627decc0434c7f720bfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/535ec4059006627decc0434c7f720bfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2785242fa737b5835726aab8984ff435/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2785242fa737b5835726aab8984ff435/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/ea37b4b987acef8863970c28ad2ef5a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/ea37b4b987acef8863970c28ad2ef5a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/2eb54c0eaa3ba883153bc79128201b9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/2eb54c0eaa3ba883153bc79128201b9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/ca4a7597862c8dc0eb31769d161634bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/ca4a7597862c8dc0eb31769d161634bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/179e55e60c4fcf9b5616a32dc6e95f55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/179e55e60c4fcf9b5616a32dc6e95f55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/04930254c046b48fe4c1f0680ab3851d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/04930254c046b48fe4c1f0680ab3851d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/aeb4fcd604d031f1ed477b8756e641e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/aeb4fcd604d031f1ed477b8756e641e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/8ff81427f1d20c507204e9284f23f888/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/8ff81427f1d20c507204e9284f23f888/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/3229d2202ea9ec33e0d61997c1c422e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/3229d2202ea9ec33e0d61997c1c422e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/fe561ece881c8bcd3ce17f4337ae3496/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/fe561ece881c8bcd3ce17f4337ae3496/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/087f66d25cf8a9bb4fabf00b8fb01105/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/Tim/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/087f66d25cf8a9bb4fabf00b8fb01105/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/Tim/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/df7717384a444cbbd6f9c43c99027c9d/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/Tim/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/df7717384a444cbbd6f9c43c99027c9d/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tim/Desktop/Github/Carpool/app/src/main/AndroidManifest.xml
